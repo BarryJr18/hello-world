@@ -1,2 +1,2 @@
 # hello-world
-i wanna be successful programmer
+i wanna be a successful programmer
